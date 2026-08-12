@@ -139,11 +139,6 @@ I'm particularly interested in combining **Java, Python, databases, and artifici
 
 ---
 
-🐍 Contribution Snake
-
-<p align="center"> <img src="https://raw.githubusercontent.com/sefacakirca/sefacakirca/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p>
-
----
 
 ## 📫 Connect With Me
 
