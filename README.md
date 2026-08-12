@@ -49,7 +49,7 @@ I mainly work with **Java and Python**, while continuously improving my skills i
 ### 🧰 Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,idea,eclipse,netbeans,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea,eclipse,vscode" />
 </p>
 
 ### 🤖 AI & Development Assistants
@@ -141,10 +141,11 @@ I'm particularly interested in combining **Java, Python, databases, and artifici
 
 ## 📫 Connect With Me
 
-<p>
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/sefa-%C3%A7ak%C4%B1rca-ba2880329/)">
+<p align="center">
+  <a href="https://www.linkedin.com/in/sefa-%C3%A7ak%C4%B1rca-ba2880329/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
   <a href="https://github.com/sefacakirca">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
