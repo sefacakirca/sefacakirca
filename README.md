@@ -125,8 +125,8 @@ I'm particularly interested in combining **Java, Python, databases, and artifici
 
 ## 🏆 Certificates
 
-* 📜 BTK Akademi — Version Control with Git
-* 📜 GitHub Certificate
+* 📜 BTK Akademi — Version Control with Git & GitHub Certificate
+
 
 ---
 
